@@ -1,11 +1,11 @@
-<svg id="Cumulativerse" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 501 501">
+<svg id="Cumulativerse" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
   <defs>
     <style>
       .cls-1 {
         fill: #e5e5e5;
       }
 
-      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6 {
+      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
         stroke: #343838;
       }
 
@@ -22,7 +22,7 @@
         fill: #82a39d;
       }
 
-      .cls-4 {
+      .cls-4, .cls-7 {
         fill: #2c4c47;
       }
 
@@ -33,9 +33,13 @@
       .cls-6 {
         stroke-miterlimit: 10.0004;
       }
+
+      .cls-7 {
+        stroke-miterlimit: 10;
+      }
     </style>
   </defs>
-  <circle id="Background" class="cls-1" cx="250.5" cy="250.5" r="250"/>
+  <circle id="Background" class="cls-1" cx="250" cy="250" r="249.5"/>
   <g id="Parents">
     <line id="Tier3-Parent2-2" class="cls-2" x1="50.2" y1="142.7" x2="75.1" y2="227.5"/>
     <line id="Tier3-Parent2" class="cls-2" x1="50.2" y1="142.7" x2="110.2" y2="142.7"/>
@@ -69,65 +73,65 @@
     <line id="Tier1-Parent1" class="cls-2" x1="250.5" y1="370.5" x2="250.5" y2="250.5"/>
   </g>
   <g id="Heapverses">
-    <circle id="Tier3-Heapverse2" class="cls-3" cx="49.7" cy="143.4" r="15"/>
-    <circle id="Tier3-Heapverse1" class="cls-3" cx="450.9" cy="142.7" r="15"/>
-    <circle id="Tier2-Heapverse16" class="cls-4" cx="227.5" cy="425.9" r="15"/>
-    <circle id="Tier2-Heapverse15" class="cls-3" cx="142.7" cy="390.8" r="15"/>
-    <circle id="Tier2-Heapverse14" class="cls-5" cx="110.2" cy="358.3" r="15"/>
-    <circle id="Tier2-Heapverse13" class="cls-4" cx="75.1" cy="273.5" r="15"/>
-    <circle id="Tier2-Heapverse12" class="cls-4" cx="75.7" cy="226.7" r="15"/>
-    <circle id="Tier2-Heapverse11" class="cls-5" cx="110.2" cy="142.7" r="15"/>
-    <circle id="Tier2-Heapverse10" class="cls-3" cx="142.7" cy="110.2" r="15"/>
-    <circle id="Tier2-Heapverse9" class="cls-4" cx="227.5" cy="75.1" r="15"/>
-    <circle id="Tier2-Heapverse8" class="cls-4" cx="273.5" cy="74.7" r="15"/>
-    <circle id="Tier2-Heapverse7" class="cls-3" cx="358.3" cy="110.2" r="15"/>
-    <circle id="Tier2-Heapverse6" class="cls-5" cx="390.8" cy="142.7" r="15"/>
-    <circle id="Tier2-Heapverse5" class="cls-4" cx="425.9" cy="227.5" r="15"/>
-    <circle id="Tier2-Heapverse4" class="cls-4" cx="425.9" cy="273.5" r="15"/>
-    <circle id="Tier2-Heapverse3" class="cls-5" cx="390.8" cy="358.3" r="15"/>
-    <circle id="Tier2-Heapverse2" class="cls-3" cx="357" cy="390.8" r="15"/>
-    <circle id="Tier2-Heapverse1" class="cls-4" cx="273.5" cy="425.9" r="15"/>
-    <circle id="Tier1-Heapverse8" class="cls-4" cx="165.6" cy="335.4" r="30"/>
-    <circle id="Tier1-Heapverse7" class="cls-5" cx="130.5" cy="250.5" r="30"/>
-    <circle id="Tier1-Heapverse6" class="cls-4" cx="165.6" cy="165.6" r="30"/>
-    <circle id="Tier1-Heapverse5" class="cls-3" cx="250.5" cy="130.5" r="30"/>
-    <circle id="Tier1-Heapverse4" class="cls-4" cx="335.4" cy="165.6" r="30"/>
-    <circle id="Tier1-Heapverse3" class="cls-5" cx="370.5" cy="250.5" r="30"/>
-    <circle id="Tier1-Heapverse2" class="cls-4" cx="335.4" cy="335.4" r="30"/>
-    <circle id="Tier1-Heapverse1" class="cls-3" cx="250.5" cy="370.5" r="30"/>
-    <circle id="Tier0-Heapverse3" class="cls-6" cx="238.6897" cy="245.9701" r="30.0011" transform="translate(-67.9622 404.1208) rotate(-74.381)"/>
-    <circle id="Tier0-Heapverse2" class="cls-3" cx="267.8" cy="240.5" r="30"/>
-    <circle id="Tier0-Heapverse1" class="cls-5" cx="250.5" cy="270.5" r="30"/>
+    <circle id="Tier3-Heapverse2" class="cls-3" cx="49.4" cy="143.1" r="15"/>
+    <circle id="Tier3-Heapverse1" class="cls-3" cx="450.6" cy="142.4" r="15"/>
+    <circle id="Tier2-Heapverse16" class="cls-4" cx="227.2" cy="425.6" r="15"/>
+    <circle id="Tier2-Heapverse15" class="cls-3" cx="142.4" cy="390.5" r="15"/>
+    <circle id="Tier2-Heapverse14" class="cls-5" cx="109.9" cy="358" r="15"/>
+    <circle id="Tier2-Heapverse13" class="cls-4" cx="74.8" cy="273.2" r="15"/>
+    <circle id="Tier2-Heapverse12" class="cls-4" cx="75.4" cy="226.4" r="15"/>
+    <circle id="Tier2-Heapverse11" class="cls-5" cx="109.9" cy="142.4" r="15"/>
+    <circle id="Tier2-Heapverse10" class="cls-3" cx="142.4" cy="109.9" r="15"/>
+    <circle id="Tier2-Heapverse9" class="cls-4" cx="227.2" cy="74.8" r="15"/>
+    <circle id="Tier2-Heapverse8" class="cls-4" cx="273.2" cy="74.4" r="15"/>
+    <circle id="Tier2-Heapverse7" class="cls-3" cx="358" cy="109.9" r="15"/>
+    <circle id="Tier2-Heapverse6" class="cls-5" cx="390.5" cy="142.4" r="15"/>
+    <circle id="Tier2-Heapverse5" class="cls-4" cx="425.6" cy="227.2" r="15"/>
+    <circle id="Tier2-Heapverse4" class="cls-4" cx="425.6" cy="273.2" r="15"/>
+    <circle id="Tier2-Heapverse3" class="cls-5" cx="390.5" cy="358" r="15"/>
+    <circle id="Tier2-Heapverse2" class="cls-3" cx="356.7" cy="390.5" r="15"/>
+    <circle id="Tier2-Heapverse1" class="cls-4" cx="273.2" cy="425.6" r="15"/>
+    <circle id="Tier1-Heapverse8" class="cls-4" cx="165.3" cy="335.1" r="30"/>
+    <circle id="Tier1-Heapverse7" class="cls-5" cx="130.2" cy="250.2" r="30"/>
+    <circle id="Tier1-Heapverse6" class="cls-4" cx="165.3" cy="165.3" r="30"/>
+    <circle id="Tier1-Heapverse5" class="cls-3" cx="250.2" cy="130.2" r="30"/>
+    <circle id="Tier1-Heapverse4" class="cls-4" cx="335.1" cy="165.3" r="30"/>
+    <circle id="Tier1-Heapverse3" class="cls-5" cx="370.2" cy="250.2" r="30"/>
+    <circle id="Tier1-Heapverse2" class="cls-4" cx="335.1" cy="335.1" r="30"/>
+    <circle id="Tier1-Heapverse1" class="cls-3" cx="250.2" cy="370.2" r="30"/>
+    <circle id="Tier0-Heapverse3" class="cls-6" cx="232.5" cy="240.2" r="30"/>
+    <circle id="Tier0-Heapverse2" class="cls-3" cx="267.5" cy="240.2" r="30"/>
+    <circle id="Tier0-Heapverse1" class="cls-5" cx="250.2" cy="270.2" r="30"/>
   </g>
   <g id="Heaps">
-    <circle id="Tier3-Heap2" class="cls-3" cx="49.7" cy="143.4" r="10"/>
-    <circle id="Tier3-Heap1" class="cls-3" cx="450.9" cy="142.7" r="10"/>
-    <circle id="Tier2-Heap16" class="cls-5" cx="227.5" cy="425.9" r="10"/>
-    <circle id="Tier2-Heap15" class="cls-3" cx="142.7" cy="390.5" r="10"/>
-    <circle id="Tier2-Heap14" class="cls-3" cx="110.2" cy="358.3" r="10"/>
-    <circle id="Tier2-Heap13" class="cls-4" cx="75.1" cy="273.5" r="10"/>
-    <circle id="Tier2-Heap12" class="cls-4" cx="75.7" cy="226.7" r="10"/>
-    <circle id="Tier2-Heap11" class="cls-5" cx="110.2" cy="142.7" r="10"/>
-    <circle id="Tier2-Heap10" class="cls-5" cx="142.7" cy="110.5" r="10"/>
-    <circle id="Tier2-Heap9" class="cls-5" cx="227.5" cy="75.1" r="10"/>
-    <circle id="Tier2-Heap8" class="cls-5" cx="273.5" cy="75.1" r="10"/>
-    <circle id="Tier2-Heap7" class="cls-5" cx="358.3" cy="110.5" r="10"/>
-    <circle id="Tier2-Heap6" class="cls-5" cx="390.8" cy="142.7" r="10"/>
-    <circle id="Tier2-Heap5" class="cls-4" cx="425.9" cy="227.5" r="10"/>
-    <circle id="Tier2-Heap4" class="cls-4" cx="425.9" cy="273.5" r="10"/>
-    <circle id="Tier2-Heap3" class="cls-3" cx="390.8" cy="358.3" r="10"/>
-    <circle id="Tier2-Heap2" class="cls-3" cx="357" cy="390.8" r="10"/>
-    <circle id="Tier2-Heap1" class="cls-5" cx="273.5" cy="425.9" r="10"/>
-    <circle id="Tier1-Heap8" class="cls-3" cx="165.6" cy="335.4" r="20"/>
-    <circle id="Tier1-Heap7" class="cls-4" cx="130.5" cy="250.5" r="20"/>
-    <circle id="Tier1-Heap6" class="cls-3" cx="165.6" cy="165.6" r="20"/>
-    <circle id="Tier1-Heap5" class="cls-4" cx="250.5" cy="130.5" r="20"/>
-    <circle id="Tier1-Heap4" class="cls-3" cx="335.4" cy="165.6" r="20"/>
-    <circle id="Tier1-Heap3" class="cls-4" cx="370.5" cy="250.5" r="20"/>
-    <circle id="Tier1-Heap2" class="cls-3" cx="335.4" cy="335.4" r="20"/>
-    <circle id="Tier1-Heap1" class="cls-4" cx="250.5" cy="370.5" r="20"/>
-    <circle id="Tier0-Heap3" class="cls-4" cx="238.7" cy="246" r="20" transform="translate(-47.859 436.713) rotate(-80.7825)"/>
-    <circle id="Tier0-Heap2" class="cls-4" cx="267.8" cy="240.5" r="20"/>
-    <circle id="Tier0-Heap1" class="cls-4" cx="250.5" cy="270.5" r="20"/>
+    <circle id="Tier3-Heap2" class="cls-3" cx="49.4" cy="143.1" r="10"/>
+    <circle id="Tier3-Heap1" class="cls-3" cx="450.6" cy="142.4" r="10"/>
+    <circle id="Tier2-Heap16" class="cls-5" cx="227.2" cy="425.6" r="10"/>
+    <circle id="Tier2-Heap15" class="cls-3" cx="142.4" cy="390.2" r="10"/>
+    <circle id="Tier2-Heap14" class="cls-3" cx="109.9" cy="358" r="10"/>
+    <circle id="Tier2-Heap13" class="cls-4" cx="74.8" cy="273.2" r="10"/>
+    <circle id="Tier2-Heap12" class="cls-4" cx="75.4" cy="226.4" r="10"/>
+    <circle id="Tier2-Heap11" class="cls-5" cx="109.9" cy="142.4" r="10"/>
+    <circle id="Tier2-Heap10" class="cls-5" cx="142.4" cy="110.2" r="10"/>
+    <circle id="Tier2-Heap9" class="cls-5" cx="227.2" cy="74.8" r="10"/>
+    <circle id="Tier2-Heap8" class="cls-5" cx="273.2" cy="74.8" r="10"/>
+    <circle id="Tier2-Heap7" class="cls-5" cx="358" cy="110.2" r="10"/>
+    <circle id="Tier2-Heap6" class="cls-5" cx="390.5" cy="142.4" r="10"/>
+    <circle id="Tier2-Heap5" class="cls-4" cx="425.6" cy="227.2" r="10"/>
+    <circle id="Tier2-Heap4" class="cls-4" cx="425.6" cy="273.2" r="10"/>
+    <circle id="Tier2-Heap3" class="cls-3" cx="390.5" cy="358" r="10"/>
+    <circle id="Tier2-Heap2" class="cls-3" cx="356.7" cy="390.5" r="10"/>
+    <circle id="Tier2-Heap1" class="cls-5" cx="273.2" cy="425.6" r="10"/>
+    <circle id="Tier1-Heap8" class="cls-3" cx="165.3" cy="335.1" r="20"/>
+    <circle id="Tier1-Heap7" class="cls-4" cx="130.2" cy="250.2" r="20"/>
+    <circle id="Tier1-Heap6" class="cls-3" cx="165.3" cy="165.3" r="20"/>
+    <circle id="Tier1-Heap5" class="cls-4" cx="250.2" cy="130.2" r="20"/>
+    <circle id="Tier1-Heap4" class="cls-3" cx="335.1" cy="165.3" r="20"/>
+    <circle id="Tier1-Heap3" class="cls-4" cx="370.2" cy="250.2" r="20"/>
+    <circle id="Tier1-Heap2" class="cls-3" cx="335.1" cy="335.1" r="20"/>
+    <circle id="Tier1-Heap1" class="cls-4" cx="250.2" cy="370.2" r="20"/>
+    <circle id="Tier0-Heap3" class="cls-7" cx="232.5" cy="240.2" r="20"/>
+    <circle id="Tier0-Heap2" class="cls-4" cx="267.5" cy="240.2" r="20"/>
+    <circle id="Tier0-Heap1" class="cls-4" cx="250.2" cy="270.2" r="20"/>
   </g>
 </svg>
