@@ -1,3 +1,5 @@
+First Proposal of Cumulativerse (aka The birth of an idea)
+
 1) Cumulativerse: One of multiverses that can include anything.
 1.1) Definitions in this document:
 1.1.1) Heapverse: Anything in Cumulativerse or in a heapverse.

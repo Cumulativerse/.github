@@ -1,3 +1,9 @@
 # Cumulativerse
 
-This project includes definition and symbols of Cumulativerse and aims to develop them. Also, project aims to create legal documentations to protect users and properties of Cumulativerse.
+This is base repository of Cumulativerse company and the idea behind it. It includes definitions, symbols of Cumulativerse and aims to develop them with its community.
+
+While making a profit, we want this company to give something back to community, spread an idea, help both developers and users, stay in ethical and moral boundaries, and to be a part of the future.
+
+## Ideas
+
+Company structure and ideas should be example for other companies and developers.
