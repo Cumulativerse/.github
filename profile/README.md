@@ -11,9 +11,18 @@
 
 ## What is Cumulativerse?
 
-Cumulativerse is a company that give away some of its rights to create a somehow decentralized organization. It aims to create a space where it can be inspected and improved by the community, while maintaining a profitable structure.
+Cumulativerse is a company that give away some of its rights to create a partially decentralized organization. It aims to create a space where it can be inspected and improved by the community, while maintaining a profitable structure.
 
 We want this company to give something back to community, spread an idea, help both developers and users, stay in ethical and moral boundaries, and to be a part of the future.
+
+## Current Proposal
+
+- Company structure and ideas should be example for other companies and developers.
+- We should give away some of our rights to be inspected and directed by community, while maintaining some rights to protect our company.
+  - A decentralized community around Cumulativerse should be created and given some rights to inspect company and join decisions.
+    - A blockchain social network may be created to achieve this without gas fee
+    - A discord server robot with admin rights
+  - We should be transparent about our decisions and actions.
 
 ## How to contribute?
 
@@ -21,7 +30,16 @@ We are open to contributions. It may be an idea, or development. You are welcome
 
 ## Contact
 
-For inquiries or collaborations, reach out via <social@cumulativerse.com>.
+- Github Discussion: <https://github.com/orgs/Cumulativerse/discussions>
+- Discord: <https://discord.com/invite/XJKdhfmD4t>
+- Email: <social@cumulativerse.com>.
+
+## Follow us
+
+- Twitter: <https://twitter.com/cumulativerse>
+- Instagram: <https://www.instagram.com/cumulativerse/>
+- Medium: <https://medium.com/@cumulativerse>
+- OpenSea: <https://opensea.io/collection/cumulativerse>
 
 <!--
 
