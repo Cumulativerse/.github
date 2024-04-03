@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.cumulativerse.com">
-    <img src="../assets/icon.png" alt="Cumulativerse Logo" height="128">
+    <img src="/assets/icon.png" alt="Cumulativerse Logo" height="128">
   </a>
   <h1 align="center">Cumulativerse</h1>
 </p>
