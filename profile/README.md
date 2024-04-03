@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://www.cumulativerse.com">
-    <img src="https://gravatar.com/avatar/a94ce5364f4dc93d2341748a4b6e75db" height="128">
+    <img src="../assets/icon.png" alt="Cumulativerse Logo" height="128">
   </a>
   <h1 align="center">Cumulativerse</h1>
 </p>
 
-![The San Juan Mountains are beautiful!](/assets/under-construction.png "San Juan Mountains")
+![Under Construction](/assets/under-construction.png "Under Construction")
 
 :warning: **Warning:** This organization and repositories are under heavy construction. Things may be missings or change quickly!
 
